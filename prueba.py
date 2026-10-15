@@ -26,4 +26,4 @@ if opcion in ('1', '2', '3', '4'):
         else:
             print("Resultado:", num1 / num2)
 else:
-    print("Opción no válida. Intenta de nuevo.")
+    print("Opción no válida, intentalo de nuevo")
